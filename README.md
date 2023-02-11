@@ -89,7 +89,8 @@ El siguiente reto consiste en crear una página donde puedas jugar a un "blackja
 
 ![21](./veintiuno/portada21.png)
 (Falta terminar el reto y ampliar información)
-
+Visita la web aquí: [Veinti[21]uno](https://aminmboankod.github.io/Blackjack-kata-js/)
+Visita el repositorio aquí: [Repositorio](https://github.com/Aminmboankod/Blackjack-kata-js)
 
 # Tik-Tak-Toe
 
@@ -109,19 +110,16 @@ Página que muestre la hora en tiempo real
 Los números deben ser de 7 segmentos y de color verde
 Los números deben ser imágenes
 Se debe aplicar los conocimientos adquiridos en la clase anterior
-![Portada](./reloj/docs/img/portada.png)
+
 Para visitar el repositorio que contiene este reto puede puslar aquí: 
 [Repositorio Reloj](https://github.com/Aminmboankod/Javascript-clock)
 
 También puede visitar la web directamente en el siguiente enlace:
 [Web Reloj](https://aminmboankod.github.io/Javascript-clock/)
+
+
 # Buscador Dominios
-
 En el siguiente reto he tenido que crear un buscador de dominios que facilite información sobre su disponibilidad, fecha de registro y de expiración.
-
-
-Vista previa de la página web:
-![Domain Tracker](./Dominio/Dominio/portadaDomain.png)
 
 Puede visitar la página directamente a través del siguiente enlace:
 [Domain Tracker](https://aminmboankod.github.io/Domain-Tracker/)
