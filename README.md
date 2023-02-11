@@ -87,9 +87,12 @@ A cotinuación se le abrirá la página con su navegador por defecto y puede nav
 
 El siguiente reto consiste en crear una página donde puedas jugar a un "blackjack" pero con dados
 
-![21](./veintiuno/portada21.png)
+![21](./portada21.png)
+
 (Falta terminar el reto y ampliar información)
+
 Visita la web aquí: [Veinti[21]uno](https://aminmboankod.github.io/Blackjack-kata-js/)
+
 Visita el repositorio aquí: [Repositorio](https://github.com/Aminmboankod/Blackjack-kata-js)
 
 # Tik-Tak-Toe
@@ -101,16 +104,13 @@ El siguiete reto consiste en crear el juego Tres en Raya con los conocimientos a
 
 # Reloj
 Ejercicio de clase de Lenguaje de marcas para practicar Javascript y el método setTimeout().
-
-El repositorio facilita el acceso a la página que muestra el reloj a través del despliege de github pages aquí
-
 Las indicaciones para entregar el ejercicio son:
 
 Página que muestre la hora en tiempo real
 Los números deben ser de 7 segmentos y de color verde
 Los números deben ser imágenes
 Se debe aplicar los conocimientos adquiridos en la clase anterior
-
+![reloj](./portadareloj.png)
 Para visitar el repositorio que contiene este reto puede puslar aquí: 
 [Repositorio Reloj](https://github.com/Aminmboankod/Javascript-clock)
 
@@ -120,6 +120,6 @@ También puede visitar la web directamente en el siguiente enlace:
 
 # Buscador Dominios
 En el siguiente reto he tenido que crear un buscador de dominios que facilite información sobre su disponibilidad, fecha de registro y de expiración.
-
+![reloj](./portadaDomain.png)
 Puede visitar la página directamente a través del siguiente enlace:
 [Domain Tracker](https://aminmboankod.github.io/Domain-Tracker/)
