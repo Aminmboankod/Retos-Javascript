@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head> 
+    <meta charset="UTF-8">
+    <title> Tic-tac-toe </title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <script src="game.js"></script>
+  </head>
+  <body> 
+    <header>
+        <h1> Tic-tac-toe </h1>
+    </header>
+    <section id="tablero">
+        <div id="d0" onclick="jugar(0)"></div>
+        <div id="d1" onclick="jugar(1)"></div>
+        <div id="d2" onclick="jugar(2)"></div>
+        <div id="d3" onclick="jugar(3)"></div>
+        <div id="d4" onclick="jugar(4)"></div>
+        <div id="d5" onclick="jugar(5)"></div>
+        <div id="d6" onclick="jugar(6)"></div>
+        <div id="d7" onclick="jugar(7)"></div>
+        <div id="d8" onclick="jugar(8)"></div>
+    </section>
+    <section id="resultado">
+        <p id="finalizado"></p>
+        <button onclick="reiniciarJuego()"> Reiniciar el juego </button>
+    </section>
+    <footer>
+        @Amin Mustafa
+    </footer>
+  </body>
+</html>

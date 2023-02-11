@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+body {
+    margin: 0px;
+    padding: 0px;
+    background-color: rgb(244, 210, 200);
+    font-size: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+header {
+    text-align: center;
+    margin: 0;
+    font-family: Poppins;
+    color:brown
+
+}
+
+footer{
+    margin-top: 10px;
+    font-size: 10px;
+    text-align: center;
+    font-style: italic;
+}
+
+#tablero {
+    display:flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    padding: 2px;
+    width: 464px;
+    height: 464px;
+    background-color: rgb(109, 32, 17);
+}
+
+div {
+    width: 150px;
+    height: 150px;
+    margin: 2px;
+    background-color: floralwhite;
+}
+
+#resultado {
+    margin: 10px;
+    text-align: center;
+}
+
+.jugador1 {
+    background-image: url('./imagenes/circulo.jpg');
+}
+
+.jugador2 {
+    background-image: url('./imagenes/cruz.jpg');
+}
+
+#finalizado {
+    margin-top: 10px;
+    color:brown;
+    font-size: 20px;
+}

@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <base target="_self">
+    <meta charset="UTF-8">
+    <meta name="generator" content="VS Code">
+    <meta name="author" content="Amin Mustafa">
+    <meta name="copyright" content="Buscador Farmacias">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="description" content="Project on javascript course">
+    <meta name="keywords" content="Farmacia, disponibilidad, localizción, guardia, horario" >
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shorcut icon" type="image/x-icon" href="/images/logominimal.png" >
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <title>Farmacias Baleares</title>
+</head>
+<body onload="cargar()">
+    <header id="header">
+        <button id="botonMunicipios" type="button">Ubicación</button>
+        <img src="/images/titulologo.png" width="400px" alt="logo">
+        <button id="botonMunicipios" src="./municipios.html">Farmacias por municipios</button>
+    </header>
+
+    <section id="buscador">
+        <form method="GET">
+            <input id="busqueda" type="text" placeholder="Buscar...">
+            <img type="button" onclick="municipios()" src="/images/lupa.png" width="50px" alt="lupa">
+        </form>
+    </section>
+
+    <section id="containerTable">
+        <table id="section">
+    </section>
+    <script src="logic.js"></script>
+</body>
+</html>

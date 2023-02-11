@@ -1,0 +1,94 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+body {
+    margin: 0;
+    font-family: Poppins;
+    
+}
+
+header {
+    display:flex;
+    justify-content: center;
+    flex-direction: row;
+    background-color: #35ac285c;
+    margin-top: 0%;
+    color: rgb(33, 68, 36);
+}
+
+body {
+    background-color: rgb(228, 255, 223);
+}
+
+#buscador {
+    display: flex;
+    justify-content: center;
+    margin: 20px;
+    
+}
+
+
+
+#section {
+  padding:40px;
+  background-color: rgb(245, 249, 246);
+  margin-left:100px;
+  border-radius: 25px;
+  box-shadow: 0px 20px 30px rgba(0, 0, 0, 0.1);
+}
+#containerTable {
+  display:flex;
+  justify-content: center;
+  flex-direction: column;
+ 
+}
+
+#botonMunicipios {
+    text-align: center;
+    text-decoration: none;
+    color: rgb(45, 33, 33);
+    background-color: white;
+    border: none;
+    border-radius: 50px;
+    padding:10px;
+    margin:30px auto;
+    height: 50px;
+    box-shadow: 0px 20px 30px rgba(0, 0, 0, 0.1);
+}
+form {
+    display: flex;
+    align-items: center;
+    width: 50%;
+    background-color: white;
+    padding: 10px;
+    border-radius: 25px;
+    margin:30px auto;
+    box-shadow: 0px 20px 30px rgba(0, 0, 0, 0.1);
+  }
+  
+  input[type="text"] {
+    flex: 1;
+    padding: 10px;
+    border: none;
+    border-radius: 25px 0 0 25px;
+  }
+
+  input[type="text"]:hover {
+    flex: 1;
+    padding: 10px;
+    border: none;
+    border-radius: 25px 0 0 25px;
+  }
+/*para que no aparezca el borde negro al seleccionar*/
+  input[type="text"]:focus {
+    border: 1px solid transparent;
+    outline: none;
+  }
+  
+  button[type="submit"] {
+    padding: 10px 20px;
+    background-color: #ffffff;
+    color: white;
+    border: none;
+    border-radius: 0 25px 25px 0;
+  }
+  
