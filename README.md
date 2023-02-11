@@ -120,6 +120,10 @@ También puede visitar la web directamente en el siguiente enlace:
 
 # Buscador Dominios
 En el siguiente reto he tenido que crear un buscador de dominios que facilite información sobre su disponibilidad, fecha de registro y de expiración.
+
+
 ![reloj](./portadaDomain.png)
+
 Puede visitar la página directamente a través del siguiente enlace:
+
 [Domain Tracker](https://aminmboankod.github.io/Domain-Tracker/)
