@@ -14,12 +14,22 @@
     <link rel="stylesheet" type="text/css" href="style.css">
     <title>Juego Flechas</title>
 </head>
-<body>
-    <div id="container">
-        <button id="empezar" type="button">Apreta Espacio para empezar</button>
-        <img id="flecha" src="./image/bottom.png" width="500px" height="500px" alt="flecha">
+<body onload="startGame()">
+    <header>
+        <img src="./image/titulo.png">
+    </header>
+    <section id="container">
+        <video src="./image/pulsaEspacio.mp4" muted type="video/mp4" autoplay></video>
+    </section>
+    <section id="status">
+        <div id="intentos"> 
+        </div>
+        <div id="puntos">
+        </div>
+        <div id="tiempo">
 
-    </div>
+        </div>
+    </section>
     <script src="logic.js"></script>
 </body>
 </html>

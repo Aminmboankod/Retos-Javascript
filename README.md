@@ -47,7 +47,7 @@ Si el usuario acierta las tres oportunidades aparecera la pantalla en verde y un
 
 Vista previa de la pantalla de juego:
 
-[juegoReflejos]()
+![juegoReflejos](./Reflejo%20Flechas/image/portadaFastGame.png)
 
 Pulsa aquí para ver el código: [código Reflejos](./Reflejo%20Flechas/)
 
