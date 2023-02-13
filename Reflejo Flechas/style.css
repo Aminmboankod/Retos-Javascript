@@ -9,7 +9,7 @@
     flex-direction: column;
     margin-left: 30%;
     margin-right: 30%;
-    padding:10%;
+
     border-radius: 8%;
     box-shadow: 10px 20px 30px rgba(0, 0, 0, 0.1);
     border:none;
@@ -54,4 +54,10 @@ header {
 section {
     display: flex;
     justify-content: space-around;
+}
+
+#container img {
+    display:flex;
+    justify-content: center;
+    margin:30%;
 }

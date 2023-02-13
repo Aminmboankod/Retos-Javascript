@@ -76,7 +76,7 @@ function playGame(event) {
     if (winCounter === 3) {
         document.getElementById("intentos").innerHTML = "Intentos: "+winCounter;
         stopTimer();
-        alert("¿Has ganado el juego!");
+        alert("¿Has ganado!");
         document.removeEventListener("keydown", playGame);
     } else {
         showArrow();
